@@ -10,3 +10,5 @@ My main tasks are:
   * Build at least two recommendation systems for musical instruments ratings;
   * Split the data into training and test sets and predict the variable ‘rating’ in the test set;
   * Evaluate and compare the accuracy of the different models.
+
+The file `Report.pdf` contains the project report, where I kept only a small part of the project code. The report is also available (with full code) in the html file `DA_project.nb.html` (open it with a whichever browser) where it has a better look, and in the R Notebook `DA_project.Rmd`, where you can also execute the code. The file `Presentation_DA.pdf` contains the project presentation made in class; the folder `data` contains the two datasets that I used for the project.
